@@ -1,10 +1,4 @@
 <?php
-/**
- * @package Lanzou_API
- * @author iami233
- * @version 1.5.0
- * @link http://github.com/5ime/Lanzou_api
- */
 header('Access-Control-Allow-Origin:*');
 header('Content-type: application/json');
 error_reporting(0);
